@@ -1,52 +1,49 @@
 # 📅 Lahza - Event Planner App
 
-Lahza is a cross-platform Flutter app for planning and managing your events with ease.
+**Lahza** is a cross-platform Flutter app for planning and managing your events with ease.
 
-Organize your gatherings, track guests, and manage checklists—all in one place.
+Organize your gatherings, track guest lists, and manage checklists—all in one simple, beautiful interface.
 
 ---
 
 ## 🌟 Features
 
-- Simple, intuitive UI
-- Add and manage events
-- Countdown to event dates
-- Guest list management
-- Event checklists
-- Cross-platform support (Android, iOS, Web, Desktop)
+✅ Clean, modern Flutter UI  
+✅ Create and manage events  
+✅ Countdown timer to event dates  
+✅ Manage guest lists  
+✅ Event checklists  
+✅ Works on Android, iOS, Web, and Desktop  
 
 ---
 
 ## 📸 Screenshots
 
-### 🟦 Starting Page
-
-App logo and splash screen.
+### ✨ Starting Page
+App splash screen and logo.
 
 ![Starting Page](screenshots/starting_page.png)
 
 ---
 
 ### 🏠 Home Page
-
-See your upcoming events at a glance, with countdown and guest summary.
+See upcoming events with countdown and guest summary.
 
 ![Home Page](screenshots/homepage.png)
 
 ---
 
 ### 📋 Checklist Page
-
-Create and view event checklists to keep everything organized.
+Manage your event planning tasks in a simple list.
 
 ![Checklist Page](screenshots/checklist.png)
 
 ---
 
 ### 🧑‍🤝‍🧑 Guests Page
-
-Manage your guest list for each event.
+Track and manage your guest list for each event.
 
 ![Guests Page](screenshots/guestpage.png)
 
 ---
+
