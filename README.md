@@ -29,21 +29,21 @@ App splash screen and logo.
 ### 🏠 Home Page
 See upcoming events with countdown and guest summary.
 
-![Home Page](screenshots/homepage.png)
+![Home Page](Lahza/screenshots/homepage.png)
 
 ---
 
 ### 📋 Checklist Page
 Manage your event planning tasks in a simple list.
 
-![Checklist Page](screenshots/checklist.png)
+![Checklist Page](Lahza/screenshots/checklist.png)
 
 ---
 
 ### 🧑‍🤝‍🧑 Guests Page
 Track and manage your guest list for each event.
 
-![Guests Page](screenshots/guestpage.png)
+![Guests Page](Lahza/screenshots/guestpage.png)
 
 ---
 
