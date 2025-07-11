@@ -22,7 +22,7 @@ Organize your gatherings, track guest lists, and manage checklists—all in one 
 ### ✨ Starting Page
 App splash screen and logo.
 
-![Starting Page](screenshots/starting_page.png)
+![Starting Page](Lahza/screenshots/starting_page.png)
 
 ---
 
